@@ -23,7 +23,7 @@
 /* original bkgrd color
 #define PSPLASH_BACKGROUND_COLOR 0xec,0xec,0xe1
 */
-/* bkgrd mod, T.Reyes, per instructions, 9/9/15
+/* bkgrd mod, T.Reyes, per instructions, 9/9/15 */
 #define PSPLASH_BACKGROUND_COLOR 0xff,0x00,0x00
 
 /* This is the color of any text output */
